@@ -6,8 +6,16 @@ Try running some of the following tasks:
 
 ```bash
 npx hardhat help
+```
+```bash
 npx hardhat test
+```
+```bash
 REPORT_GAS=true npx hardhat test
+```
+```bash
 npx hardhat node
+```
+```bash
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
